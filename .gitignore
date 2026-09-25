@@ -1,0 +1,7 @@
+node_modules/
+dist/
+tron/
+coverage/
+*.log
+*.pid
+.DS_Store

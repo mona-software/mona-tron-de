@@ -1,0 +1,120 @@
+[phan: I]
+Câu 1. Đơn vị SI của vận tốc là gì?
+A. km/h
+*B. m/s
+C. m
+D. s
+
+Câu 2. Đại lượng nào là đại lượng vectơ?
+A. Quãng đường
+B. Thời gian
+*C. Độ dịch chuyển
+D. Khối lượng
+
+Câu 3. Một xe đi đều 60 km trong 2 giờ. Tốc độ trung bình của xe là bao nhiêu?
+*A. 30 km/h
+B. 60 km/h
+C. 90 km/h
+D. 120 km/h
+
+Câu 4. Gia tốc mô tả điều gì?
+A. Mức quán tính của vật
+*B. Mức thay đổi vận tốc theo thời gian
+C. Khoảng cách vật đã đi
+D. Lực hút của Trái Đất
+
+Câu 5. Trong chuyển động thẳng đều, vận tốc có đặc điểm nào?
+A. Tăng đều
+B. Giảm đều
+*C. Không đổi
+D. Luôn bằng không
+
+Câu 6. Công thức tính trọng lượng gần mặt đất là gì?
+A. P = m/g
+B. P = g/m
+*C. P = mg
+D. P = m + g
+
+Câu 7. Khi hợp lực tác dụng lên vật bằng không, vật đang chuyển động sẽ thế nào?
+A. Dừng ngay
+*B. Tiếp tục chuyển động thẳng đều
+C. Chuyển động nhanh dần
+D. Chuyển động tròn
+
+Câu 8. Đơn vị của lực trong hệ SI là gì?
+A. Jun
+*B. Niutơn
+C. Oát
+D. Pascal
+
+Câu 9. Theo định luật II Newton, gia tốc cùng hướng với đại lượng nào?
+A. Vận tốc
+B. Độ dịch chuyển
+*C. Hợp lực
+D. Khối lượng
+
+Câu 10. Hai lực trực đối trong cặp lực và phản lực tác dụng lên đâu?
+A. Cùng một vật
+*B. Hai vật khác nhau
+C. Chỉ vật đứng yên
+D. Chỉ vật chuyển động
+
+Câu 11. Ma sát nghỉ xuất hiện khi nào?
+A. Vật rơi tự do
+*B. Có xu hướng trượt nhưng chưa trượt
+C. Vật đã rời mặt tiếp xúc
+D. Không có lực tác dụng
+
+Câu 12. Một vật khối lượng 2 kg chịu hợp lực 6 N. Gia tốc của vật là bao nhiêu?
+A. 2 m/s²
+*B. 3 m/s²
+C. 6 m/s²
+D. 12 m/s²
+
+Câu 13. Công cơ học của lực không đổi được tính bằng biểu thức nào?
+A. A = Fs sin α
+*B. A = Fs cos α
+C. A = F/s
+D. A = s/F
+
+Câu 14. Khi lực vuông góc với độ dịch chuyển, công của lực bằng bao nhiêu?
+*A. 0
+B. Fs
+C. F/s
+D. -Fs
+
+Câu 15. Công suất cho biết điều gì?
+A. Khả năng giữ vật đứng yên
+*B. Tốc độ thực hiện công
+C. Khối lượng của vật
+D. Quãng đường chuyển động
+
+Câu 16. Động năng của vật phụ thuộc vào đại lượng nào?
+A. Chỉ độ cao
+*B. Khối lượng và tốc độ
+C. Chỉ thời gian
+D. Nhiệt độ môi trường
+
+Câu 17. Thế năng trọng trường tăng khi nào?
+*A. Độ cao của vật tăng
+B. Tốc độ của vật giảm
+C. Thời gian tăng
+D. Gia tốc bằng không
+
+Câu 18. Trong hệ kín chỉ có lực thế, đại lượng nào được bảo toàn?
+A. Vận tốc
+B. Gia tốc
+*C. Cơ năng
+D. Công suất
+
+Câu 19. Động lượng của vật được tính bằng biểu thức nào?
+*A. p = mv
+B. p = ma
+C. p = mg
+D. p = mv²
+
+Câu 20. Va chạm mềm có đặc điểm nào?
+A. Hai vật bật ra với cùng tốc độ
+*B. Hai vật dính vào nhau sau va chạm
+C. Động năng luôn bảo toàn
+D. Tổng động lượng bằng không

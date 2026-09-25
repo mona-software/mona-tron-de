@@ -1,0 +1,32 @@
+[phan: I]
+Câu 1. Hàm số y = 2x + 1 đồng biến trên khoảng nào?
+*A. Mọi khoảng thuộc R
+B. Chỉ (0; +∞)
+C. Chỉ (-∞; 0)
+D. Không có khoảng nào
+
+Câu 2. Nghiệm của phương trình x² = 9 là gì?
+A. x = 3
+B. x = -3
+*C. x = ±3
+D. x = 9
+
+[phan: II]
+Câu 3. Xét chuyển động thẳng có phương trình x = 2t + 1. [dung-sai]
+*a) Vận tốc của vật bằng 2 m/s.
+b) Vị trí ban đầu của vật bằng 2 m.
+*c) Chuyển động là chuyển động thẳng đều.
+d) Sau 2 giây, vật ở vị trí 4 m.
+
+Câu 4. Xét hàm số f(x) = x². [dung-sai]
+*a) f(0) = 0.
+*b) Hàm số nhận giá trị không âm.
+c) Đồ thị là một đường thẳng.
+*d) f(-2) = 4.
+
+[phan: III]
+Câu 5. Một xe đi 120 km trong 2 giờ. Tốc độ trung bình, tính theo km/h, là bao nhiêu? [tra-loi-ngan]
+Đáp án: 60
+
+Câu 6. Tính giá trị 3² + 4². [tra-loi-ngan]
+Đáp án: 25
