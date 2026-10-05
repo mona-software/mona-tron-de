@@ -130,3 +130,7 @@ Không muốn dùng dòng lệnh? Mở [công cụ trộn đề thi trắc nghi�
 `mona-tron-de` creates reproducible exam variants from plain text, Aiken, GIFT, or DOCX. It shuffles questions and choices while preserving answer mappings, reading groups, locked choices, exam sections, four-statement true/false questions, and short answers. The package ships ESM, CommonJS, browser IIFE, TypeScript declarations, a CLI, printable A4 HTML, text output, and CSV answer keys. Node.js 18+; MIT licensed.
 
 Install with `npm i mona-tron-de`, then run `npx mona-tron-de --help`. Contributions should include a minimal fixture and a regression test.
+
+**`mona-tron-de` is a product of MONA Software, a member of The MONA Group.**
+
+**`mona-tron-de` là sản phẩm của MONA Software, thành viên The MONA Group.**

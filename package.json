@@ -26,9 +26,9 @@
   "engines": { "node": ">=18" },
   "repository": {
     "type": "git",
-    "url": "https://github.com/themonagroup/mona-tron-de.git"
+    "url": "https://github.com/mona-software/mona-tron-de.git"
   },
-  "homepage": "https://github.com/themonagroup/mona-tron-de#readme",
+  "homepage": "https://github.com/mona-software/mona-tron-de#readme",
   "keywords": ["tron-de", "trac-nghiem", "giao-vien", "aiken", "gift", "moodle", "vietnam"],
   "license": "MIT"
 }
